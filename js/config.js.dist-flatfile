@@ -1,0 +1,10 @@
+config = {
+    '5keul_factor': 90.0/10.0,
+    'keul_factor': 90.0/10000.0,
+    '4keul_factor': 90.0/50.0,
+    'mopo_x': 500,
+    'mopo_y': 500,
+    'datasource': '/flat.txt',
+    'seg_on': '#000000',
+    'seg_off': '#FEDF0A'
+} 
