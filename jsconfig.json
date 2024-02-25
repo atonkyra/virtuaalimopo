@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+  },
+  "typeAcquisition": {
+    "enable": true,
+    "include": ["d3"]
+  }
+}
