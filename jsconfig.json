@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "ES2022",
+    "lib": [
+      "ES2022",
+      "dom"
+    ]
+  },
+  "typeAcquisition": {
+    "enable": true,
+    "include": ["d3"]
+  }
+}
